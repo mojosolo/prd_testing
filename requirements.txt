@@ -1,0 +1,4 @@
+"mcp[cli]"
+requests
+openai
+python-dotenv
